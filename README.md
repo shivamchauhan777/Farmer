@@ -1,4 +1,4 @@
-# Farmer to Market - Web Interface
+# 🎍 Farmer to Market - Web Interface
 
 A modern and responsive front-end web application designed to connect **farmers directly with consumers or markets**. Built using **HTML**, **CSS**, **JavaScript**, and **TailwindCSS**, this project aims to streamline agricultural product visibility and empower farmers through digital outreach.
 
